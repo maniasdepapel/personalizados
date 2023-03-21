@@ -297,7 +297,7 @@
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         gap: 0.5rem 0.5rem;
-    
+        
         padding: 0rem 1rem;
     }
     
@@ -312,8 +312,8 @@
     }
     
     .um, .dois, .tres, .quatro, .cinco, .seis{
-        width: 7.2rem;
-        height: 9rem;
+        width: 20rem;
+        height: 26rem;
     }
     
     .rodape{
@@ -327,8 +327,10 @@
     }
     
     .rodape p{        
-        width: 100%;
+        width: 60%;
         padding: 1rem;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
         text-align:left;
     }
     
@@ -338,7 +340,6 @@
         height: 2rem;
         padding: 0.3rem;
     }
-    
     
     /*Botões*/
     
@@ -355,6 +356,7 @@
         font-size: 1.2rem;
         font-weight: bold;
         border: none;
+        margin-bottom: 5rem;
     }
     
     .bt-geral-rosa button:hover{
@@ -369,6 +371,7 @@
         font-size: 1.2rem;
         font-weight: bold;
         border: none;
+        margin-bottom: 5rem;
     }
     
     .bt-geral-azul button:hover{
