@@ -6,7 +6,7 @@ setInterval(function(){
 
     proxImagem();
 
-}, 3000);
+}, 5000);
 
 function proxImagem(){
     count++;
